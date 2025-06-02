@@ -8,8 +8,6 @@ import {
   Feedbacks,
   Hero,
   Navbar,
-  Tech,
-  Works,
   StarsCanvas,
 } from "./components";
 import { useEffect } from "react";
